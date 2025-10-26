@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@neabyte/deno-ansi": "jsr:@neabyte/deno-ansi@^0.1.0"
+  }
+}
